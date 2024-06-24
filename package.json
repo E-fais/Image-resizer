@@ -1,0 +1,17 @@
+{
+  "name": "image-resizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "Application to crop images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "author": "Fais Edathil",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^31.0.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
